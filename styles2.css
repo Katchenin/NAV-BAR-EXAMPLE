@@ -1,0 +1,10 @@
+body{
+  font-family: Arial;
+  margin: 0;
+}
+
+
+.navbar{
+  overflow-x: hidden;
+  background-color: #333;
+}
